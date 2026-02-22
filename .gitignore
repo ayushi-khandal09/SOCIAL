@@ -1,2 +1,5 @@
 .env
-serverserver
+server
+*.exe
+*.out
+*.log
