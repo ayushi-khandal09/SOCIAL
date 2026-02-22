@@ -1,0 +1,1 @@
+-- dummy down migration for version 0 to satisfy migrate
