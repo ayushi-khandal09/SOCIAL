@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ayushi-khandal09/SOCIAL/compare/v1.0.0...v1.1.0) (2026-02-25)
+
+
+### Features
+
+* update api version automatically ([b1c42ea](https://github.com/ayushi-khandal09/SOCIAL/commit/b1c42ea292b51b3f99ea6ebde188d9bbbe940fc0))
+
 ## 1.0.0 (2026-02-25)
 
 
