@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/ayushi-khandal09/SOCIAL/compare/v1.1.0...v1.2.0) (2026-02-26)
+
+
+### Features
+
+* Dockerfile ([db974a5](https://github.com/ayushi-khandal09/SOCIAL/commit/db974a553dacd437dc6c8b500d7e810e94c1b926))
+
+
+### Bug Fixes
+
+* updated update-api-version workflow ([77402e7](https://github.com/ayushi-khandal09/SOCIAL/commit/77402e7d0c2247d84fd07deb95f03fc6c4129bbe))
+* workflow-fix ([b0a7f60](https://github.com/ayushi-khandal09/SOCIAL/commit/b0a7f60bcee4780964d87792931c7bf60c09b763))
+
 ## [1.1.0](https://github.com/ayushi-khandal09/SOCIAL/compare/v1.0.0...v1.1.0) (2026-02-25)
 
 
